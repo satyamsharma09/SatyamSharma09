@@ -1,3 +1,5 @@
+![logo](https://github.com/satyamsharma09/SatyamSharma09/assets/108697294/6fb9349d-6f98-4643-a733-628bb863ba3a)
+
 <h1 align="center">Hi 👋, I'm Satyam Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
